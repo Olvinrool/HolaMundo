@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="lbl_hola_mundo">My first Movil Aplication  UTH</string>
+    <string name="btm_click_aqui">Click Here</string>
+    <string name="mensaje_boton">" I have Clicked the bottom below"</string>
+    <string name="lbltotal">Total Account</string>
+    <string name="lblcantidad">Quantity of Persons</string>
+    <string name="error_monto_invalido">Enter a valid amount</string>
+    <string name="error_peronas_invalido">Enter a valid number of people</string>
+</resources>

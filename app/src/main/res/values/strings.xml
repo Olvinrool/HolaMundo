@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="lbl_hola_mundo"></string>
+    <string name="btm_click_aqui">Calcular</string>
+    <string name="mensaje_boton">Hew hecho click al boton de abajo!</string>
+    <string name="lbltotal">Total de la cuenta</string>
+    <string name="lblcantidad">Cantidad de personas</string>
+    <string name="btn_mas" translatable="false">+</string>
+    <string name="btn_menos" translatable="false">-</string>
+    <string name="edt_def_total" translatable="false">1</string>
+    <string name="edt_def_cantidad" translatable="false">1</string>
+    <string name="label_monto_dividido" translatable="false">L. %1$S</string>
+    <string name="error_monto_invalido">Digite el monto de la cuenta</string>
+    <string name="error_peronas_invalido">Digite una cantidad de personas valida</string>
+</resources>
